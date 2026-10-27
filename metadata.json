@@ -1,0 +1,8 @@
+{
+  "name": "PyAutoArena - Selenium & Playwright Playground",
+  "description": "Interactive learning and practice portal for Python Selenium and Playwright test automation featuring CRUD operations, dynamic locators, file uploads, real-time validation, and state synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
